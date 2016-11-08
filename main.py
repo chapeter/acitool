@@ -1,4 +1,4 @@
-from acitool import acipdt
+import acipdt
 import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import sys
